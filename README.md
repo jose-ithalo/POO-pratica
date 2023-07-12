@@ -1,4 +1,4 @@
-# Backend TypeScript | Prática com orientação a Objetos
+# Backend TypeScript | Prática com Orientação a Objetos
 
 ## Sistema Acadêmico
 
